@@ -11,3 +11,6 @@ potentially self-intersecting, with holes, or with duplicate
 vertices. Simple examples of calling the tessellate function directly
 are located in main.c.
 
+Also an example exporting GeoJSON files and SVG files is located in
+test_tessellate
+
